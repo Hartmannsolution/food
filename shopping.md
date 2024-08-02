@@ -105,9 +105,12 @@
 - soya sauce
 - dried mushrooms
 - dried seaweed
+- dried shrimps
 - sundried tomatoes in oil
 - Tigerrejer
 - Sushi ris
 - Garam Masala
 - Sumak (mellemmøstligt syrligt krydderi)
+- Glasnudler (100% mungbønner)
+
 
