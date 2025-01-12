@@ -4,12 +4,13 @@
 2. [Brød](#breads)
 3. [Grød](#grød)
 4. [Sauces](#sauces)
-5. [Chicken](#chicken)
+5. [Condiments](#condiments)
 6. [Pork](#pork)
-7. [Desserter](#desserts)
-8. [Cakes and cookies](#cakes-and-cookies)
-9. [Vegetarian](#vegetarian)
-10. [Vegan](#vegan)
+7. [Chicken](#chicken)
+8. [Desserter](#desserts)
+9. [Cakes and cookies](#cakes-and-cookies)
+10. [Vegetarian](#vegetarian)
+11. [Vegan](#vegan)
 
 ## Preps
 ### Greens
@@ -40,6 +41,12 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 - Barbeque sauce
 - Flavoured mayo (garlic, ketchup, lemon, sweet mustard)
 - Hummus
+
+### Condiments
+- Pickled red onions soacked in lukewarm water for 15 min.
+  - Brine: 8 dl water, 8 dl vinegar, 130 g sugar, 22.5 g salt boil, then pour over onions, let cool and refrigerate for 2-4 weeks.
+- Pickled cucumber, carrots, cauliflower, beets, etc.
+
 
 ### Meats
 
@@ -305,6 +312,37 @@ Combine edamame and garlic in a small saucepan; cover with water to 2 inches abo
 Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse 10 times or until coarsely ground. Add 1/4 cup water and remaining ingredients; process until almost smooth.
 
 ## Chicken
+
+### Crsipy sweet chili chicken
+
+#### Chicken part
+1 tsp sweet paprika
+1 tsp garlic garlic powder
+1/2 tsp sea salt flakes
+1/2 tsp black pepper
+1 egg
+60 g. corn starch
+oil for frying
+
+#### Sauce part
+1 tsp freshly minced garlic
+1 tsp freshly minced ginger
+125 ml sweet chili sauce
+60 ml tamari or soy sauce
+60 ml rice wine vinegar
+
+#### To serve
+steamed rice
+1 spring onion, sliced
+tsp sesame seeds
+
+1. Cut chiken in bite size pieces and place in a large bowl, with sweet paprika, garlic powder, salt and pepper. Mix well and set aside. 
+2. To make the sauce: Combine all the ingredients in a medium bowl and set aside.
+3. heat the oil over medium-high heat in a large frying pan. cook the chicken for 5-6 minutes, turning occasionally, until golden and cooked through. Turning once halfway through cooking. Set aside on a paper towel to drain oil.
+4. Drain the oil from the frying pan and wipe the pan clean. 
+5. Heat the pan over medium low heat and add the sauce. Stir fro 2-3 minutes until the sauce begins to bubble and thicken. Turn off the heat and add the chicken to the pan. Toss the chicken in the sauce until well coated. 
+6. Serve the chikcken imeediately with steamed rice, sliced spring onion and sesame seeds.
+7. Add 1-2 tbsp of boiling water to the bottom of the pan once the chicken has been removed. Use a spoon to stir the water into the remaining sauce and use the extra sauce to pour over the completed dish.
 
 ### Chicken thigh deep fried
 
