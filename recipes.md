@@ -343,7 +343,7 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 2. To make the sauce: Combine all the ingredients in a medium bowl and set aside.
 3. heat the oil over medium-high heat in a large frying pan. cook the chicken for 5-6 minutes, turning occasionally, until golden and cooked through. Turning once halfway through cooking. Set aside on a paper towel to drain oil.
 4. Drain the oil from the frying pan and wipe the pan clean. 
-5. Heat the pan over medium low heat and add the sauce. Stir fro 2-3 minutes until the sauce begins to bubble and thicken. Turn off the heat and add the chicken to the pan. Toss the chicken in the sauce until well coated. 
+5. Heat the pan over medium high heat and add the sauce. Stir fro 2-3 minutes until the sauce begins to bubble and thicken. Turn off the heat and add the chicken to the pan. Toss the chicken in the sauce until well coated. 
 6. Serve the chikcken imeediately with steamed rice, sliced spring onion and sesame seeds.
 7. Add 1-2 tbsp of boiling water to the bottom of the pan once the chicken has been removed. Use a spoon to stir the water into the remaining sauce and use the extra sauce to pour over the completed dish.
 
