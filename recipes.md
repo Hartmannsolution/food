@@ -314,27 +314,30 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 ## Chicken
 
 ### Crsipy sweet chili chicken
+[Source](https://simplehomeedit.com/recipe/crispy-sweet-chilli-chicken/)
 
 #### Chicken part
-1 tsp sweet paprika
-1 tsp garlic garlic powder
-1/2 tsp sea salt flakes
-1/2 tsp black pepper
-1 egg
-60 g. corn starch
-oil for frying
+- 1 tsp sweet paprika
+- 1 tsp garlic garlic powder
+- 1/2 tsp sea salt flakes
+- 1/2 tsp black pepper
+- 1 egg
+- 60 g. corn starch
+- oil for frying
 
 #### Sauce part
-1 tsp freshly minced garlic
-1 tsp freshly minced ginger
-125 ml sweet chili sauce
-60 ml tamari or soy sauce
-60 ml rice wine vinegar
+- 1 tsp freshly minced garlic
+- 1 tsp freshly minced ginger
+- 125 ml sweet chili sauce
+- 60 ml tamari or soy sauce
+- 60 ml rice wine vinegar
 
 #### To serve
-steamed rice
-1 spring onion, sliced
-tsp sesame seeds
+- steamed rice
+- 1 spring onion, sliced
+- tsp sesame seeds
+
+#### Instructions
 
 1. Cut chiken in bite size pieces and place in a large bowl, with sweet paprika, garlic powder, salt and pepper. Mix well and set aside. 
 2. To make the sauce: Combine all the ingredients in a medium bowl and set aside.
