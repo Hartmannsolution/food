@@ -1,4 +1,3 @@
-# recipes
 ## Content
 1. [Preps](#preps)
 2. [Brød](#breads)
@@ -7,10 +6,14 @@
 5. [Condiments](#condiments)
 6. [Pork](#pork)
 7. [Chicken](#chicken)
-8. [Desserter](#desserts)
+7. [Egg](#egg)
+8. [Beef](#beef)
+9. [Fish](#fish)
+8. [Desserts](#desserts)
 9. [Cakes and cookies](#cakes-and-cookies)
 10. [Vegetarian](#vegetarian)
-11. [Vegan](#vegan)
+11. [Salats](#salats)
+12. [Lunch](#lunch)
 
 ## Preps
 ### Greens
@@ -36,16 +39,38 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 
 ### Sauces
 
-- Avocado sauce
-- Vinegar sauce
-- Barbeque sauce
-- Flavoured mayo (garlic, ketchup, lemon, sweet mustard)
-- Hummus
+- **3 Mexican Salsas:** 
+  - Salsa Fresca with Avocado: quarter large onion, half a green chili, 1 lime, 2 avocados, 4-6 zilantro stems, little water and salt. Blend and store in fridge for 2-3 days.
+  - Martajada (Charred salsa): Red onion, 2-3 tomatoes, 2-3 hot peppers, 2-3 cloves of garlic. Char onions, tomatoes and peppers on a hot pan in oil and add the garlic late. Blend lightly (still chunky) with salt. Add lemon juice or vinegar and stir. Add chunks of avocado and chopped zilantro and stir. Store in fridge for 2-3 weeks. Eat with tacos, burritos, quesadillas, grilled meats, fish or vegetables.
+  - Salsa Morita (Cooked salsa):
+
+- **Avocado sauce**
+- **Vinegar sauce**
+- **Barbeque sauce**
+- **Flavoured mayo (garlic, ketchup, lemon, sweet mustard)**
+- **Hummus**
+- **Yemeni Dipping sauce** For kofta dipping: 3 tbsp youghurt, 1 tbsp tahini, 1 tbsp lemon juice, 1 tbsp olive oil, 1 clove garlic, 1 tsp cumin, 1 tsp paprika, 1 tsp salt. 
+- **Yemeni hot sauce** half a tomato, 2 hot peppers, 2 tbsp hot pepper powder, 1 tbsp chilli flakes, 3 tbsp vinegar, 1 tbsp olive oil, salt and pepper. Blend and store in fridge for 2-3 weeks.
+- **Katsu sauce** ( 1 tbsp oister sauce, 1 dl ketchup, 0.5 dl worcestershire, 0.5 tbsp brown sugar or to taste) for chicken dipping
+- **dumpling dipping sauce** (2-3 tbsp soy sauce, 1 tbsp black vinegar, 1 tbsp sesame seeds, green onions, 1 tbsp seracha chili, 1 tbsp garlic, 1 tbsp ginger)
+- **Garlic sauce** (olive oil, butter, 1 green onion sliced, 5 gloves of garlic sliced, 0.5 dl white wine, 4 dl cream, salt, pepper, spices)
+  - Fry onion 3-4 min in oil and butter, add garlic and fry 1-2 min. Add wine and reduce by half. Add cream and reduce by half. Add salt, pepper and spices to taste.
+- **Stir fry sauce** (1/4 cup soy sauce, 1/8 cup oyster sauce, 1 tablespoon Chinese cooking wine, 1 teaspoon sugar, ¼ cup water, 1 teaspoon corn starch, 2 tablespoons water, 1 tablespoon oil for frying)
+  - Trim chicken meat and marinate in sauce. Drain sauce and fry chicken at high heat. Add garlic and ginger and fry for 1-2 min. Then cook the vegetables and finally - Add back chicken and sauce and cook till thickened. Serve with rice.
+- **Pan sauce** (1/2 cup chicken stock, 1/2 cup white wine, minced charlotte onion, 1 tbsp butter, 1 tbsp flour, salt, pepper, lemon juice)
+  - Fry onion in butter till soft, add flour and fry for 1-2 min. Add wine and reduce by half. Add stock and reduce by half. Add salt and pepper to taste.
+- **Cheat sauce**: (½ liter vand, 2 suppetern, 1 spsk asiatisk fiskesauce (jeg bruger Viet Huong), 1 spsk asiatisk østerssauce (Jeg bruger panda mærket), 1 spsk tomatketchup, ½ dl piskefløde (du kan snige den op på 1 dl uden problemer), 2 spsk maizena, lidt kulør evt. peber. optionaly blue cheese, mustard, soy sauce, mushrooms, bacon, onions, garlic)
+  - Mix everything and cook for 1-3 min till thickened.
+- **Pebber sauce**: 3 jarred red pebbers, 4 dl hummus, 3 tbsp soy sauce, 2.5 tbsp vineger, black pepper and blend till smooth.
+- **Baba Ganoush** (or really it is **Mutabbal** since baba ganouch has roasted tomato, pepper and chili and no tahini): 1 eggplant, 1 clove garlic, 1 tbsp tahini, juice and peel of half a lemon, 1 tsp koriander, 1 tsp cumin, 3 tbsp olive oil, 2 tbsp chopped mint, salt and pepper
+  - Bake eggplant at 180 degrees for 40-45 min. Blend all ingredients and serve with olive oil and mint on top.
 
 ### Condiments
-- Pickled red onions soacked in lukewarm water for 15 min.
+- Pickled red onions 
   - Brine: 8 dl water, 8 dl vinegar, 130 g sugar, 22.5 g salt boil, then pour over onions, let cool and refrigerate for 2-4 weeks.
-- Pickled cucumber, carrots, cauliflower, beets, etc.
+  - Or (valdemarsro). 4 rødløg, 4 dl æblecidereddike, 1 dl vand, 1 dl sukker, 1 tsk pepperkorn.
+- Pickled cucumber, carrots, cauliflower, beets, onions, cabbage, asperges etc.
+  - (pro home cook) 4 cups water, 3 cups vinegar, 6 tbsp salt, 6 tbsp sugar, spices (whole pepper, mustard seeds, coriander seeds, dill seeds, bay leaves, garlic, chili, ginger or whatever). Boil brine and pour over veges. Let cool and refrigerate for 2-4 weeks (eat after min. 4 hours)
 
 
 ### Meats
@@ -62,7 +87,7 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 - [Chapati (Roti)](https://www.youtube.com/watch?v=R5f_3tEXuNc&ab_channel=Raihana%E2%80%99sCuisines)
 
 ## Breads
-### Wheat Tortilla
+### Wheat Tortilla with oil
 
 - 300 g  all purpose flour
 - 180 ml warm water
@@ -72,14 +97,18 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 
 Combine flour and water (into dough mass) and let rest covered for 20-30 mins. then add oil and salt, kneading slightly again to combine. Make dough balls, flatten, roll, toss on a super hot griddle for 30-60 seconds each side (each side needs to bubble, if this doesn't happen or takes too long to happen, you're griddle's not hot enough, you'll end up making a cracker), and BAM!
 
-- 300 g. flour
-- 60 g. butter
+### Wheat Tortilla with butter (16 pieces)
+[Source](https://www.youtube.com/watch?v=xNa49-yu2UM&t=16s)
+- 120 g. butter (1 part)
+- 240 ml water (heat to 60 degrees and mix with butter to melt) (2 parts)
+- 360 g. flour (3 parts)
 - 3 g. salt
-- 175 ml water (add gradually to right consistency)
-- mix and kneat for 4-5 minutes
-- rest the dough for 1-2 hours (minimum 20 min.)
-- cut out 55-75 g. sizes for burrito size and 30 g. size for taco size. and for small balls and keep under wrapping not to dry out.
-- Roll out thin and bake on hot cast iron for 30 sek flip plus 10 sek.
+
+or like: (680g mel, 100g lard, 7g salt, 360g varmt vand) Makes 6 tortillas.
+
+- mix and kneat for 4-5 minutes (untill smooth)
+- cut out 55-75 g. sizes for burrito size and 30 g. size for taco size. Oil hands and give each ball surface and keep under wrapping not to dry out (rest for 30 min.).
+- Roll out (25 cm i diameter) thin and bake on hot cast iron for 30 sek flip plus 10 sek.
 
 ### No knead bread (med og uden kerner) i støbejernsgryde.
 
@@ -326,8 +355,8 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 - oil for frying
 
 #### Sauce part
-- 1 tsp freshly minced garlic
-- 1 tsp freshly minced ginger
+- 1 tbsp freshly minced garlic
+- 1 tbsp freshly minced ginger
 - 125 ml sweet chili sauce
 - 60 ml tamari or soy sauce
 - 60 ml rice wine vinegar
@@ -353,6 +382,16 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 
 Soy sauce + corn starch to thick sticky consistency
 Marinate for 30+ min.
+
+### Pan fried chicken thighs
+#### Marinate
+- 3 tbsp soy sauce
+- 3 tbsp honey
+- 3 tbsp mustard
+- 3 tbsp tomato sauce (ketchup)
+- 1 tsp garlic powder, pepper, salt, paprika
+- zilantro and chive
+Brush on chicken thighs and bake at 200 degrees for 30-40 min.
 
 ### Butter Chicken
 [Gordan Ramsay video 15 min recipe](https://www.youtube.com/watch?v=JYg1UfVCfiw)
@@ -381,6 +420,15 @@ Day 2:
 2. Remove fat from sauce and boile down with the extra set of dry rub + ketchup and apple juice.
 3. Thread the meat and pour over the sauce.
 
+## Egg
+### Steamed chinese egg custard
+[Source](https://www.youtube.com/watch?v=dIf2miJm-7k)
+1 part whisked eggs, 1.5 part luke warm liquid (chicken stock etc). Serve with soy sauce and sesame oil.
+
+## Beef
+### Kofta kebab
+[source](https://www.youtube.com/watch?v=Qa_9Bi_uXNk)
+
 ## Desserts
 
 ### Tante Marthas æblekage
@@ -393,31 +441,17 @@ Day 2:
 Kom æblestykkerne i fad med 1 dl vand og strø ½ spsk vanillesukker over. Smør dejen/cremen over æblerne og bag ved 200 grader til overfladen er brun og lækker (omkring 30 min).
 
 ### Crepes
+#### Easy version
+- 1/2 cup water
+- 1/2 cup milk
+- 1 cup flour
+- 2 eggs
+- pinch of salt
+- Blend shortly and fry in buttered pan.
 
-milk (300 ml)
-flour (175 ml)
-pinch salt
-sugar (10 ml), optional
-3 eggs, beaten with a whisk
-2 tbsp.  melted butter (25 ml)
-
-- Combine the milk with sifted flour in a medium bowl.  
-- Whisk to blend all the flour in.  
-- Add sugar, if using, and salt.  
-- Add the beaten eggs and whisk until batter is smooth. 
-- Strain if desired.  
-- Batter should resemble loose cream. 
-- If making crepes, same day, let rest in fridge for 30 minutes.  
-- Then remove and add melted butter.  
-- Note, if you refrigerate batter for longer, you need to add butter before chilling or it will not blend with mixture. 
-- Lightly butter an 8 inch crepe pan over medium high heat.  
-- Using a paper towel , wipe some melted butter over entire pan.  
-- Pour 2 Tbsp. (25 ml) batter into the top of pan and swirl around so batter reaches the outer edges of pan evenly.  
-- Cook 1st side for 50 seconds - 1 minute.. 
-- Flip and cook other side for 30 seconds.  
-- Repeat with remaining batter. 
 
 ### Creme brulé
+[Source](http://www.kvalimad.dk/page/creme-brulee/uuid/e4450a7a-4f7c-11e6-aecd-845456c93ac3)
 
 - 1 egg (or 2 yokes)
 - 50 g. sugar
@@ -426,6 +460,10 @@ sugar (10 ml), optional
 
 Boil everything except egg. cool to body temp and add egg and stir.
 bake in ramakins in water bath in oven 150 celcius for 30 min (till right consistency: alive but not fluid)
+
+### Creme brulé steamed on stove top
+[Source](https://youtube.com/shorts/euP3b62dtcE?si=W9egro7SWlxWArFC)
+1 egg, 1 tsp sugar, 200 ml milk, stir, remove foam and steam over high heat for 12 min.
 
 ### Oatscakes
 https://nogetiovnen.dk/havretern-med-nougat-laekre-havregrynssnitter/ 
@@ -532,6 +570,30 @@ Enough for a large baking tray
 - 1 tsp vanilla sugar
 - 2 dl icing sugar
 
+### Garceau Marcel's chocolate cake
+#### Ingredients
+- 200 g dark chokolade (70%)
+- 200 g butter
+- 200 g sugar
+- 5 eggs
+ - ½-1 orange peel.
+
+#### Steps
+- Gør springformen klar. Kom bagepapir i bunden. Kagen er lidt skrøbelig når den er bagt.
+- Smelt smør og chokoladen ved lav temperatur eller i et vandbad. Det er nemmest at hakke chokoladen først.
+- Pisk æggehviderne med lidt under halvdelen af sukkeret.
+- Riv appelsinskallen. Hak den evt. også så fint som muligt.
+- Pisk æggeblommerne lyse og luftige med det sidste sukker.
+- Bland appelsinskallen i.
+- Kom den smeltede chokoladeblanding i æggeblommerne.
+- Kom ca. 1/3 af ægge og chokoladeblandingen i æggehviderne. Bland dem godt.
+- Hæld det hele tilbage i æggehviderne og bland det til en ensartet farve. Ikke så hårdt at luften ryger ud af dejen.
+- Hæld det halve eller 2/3 af dejen over i springformen.
+- Bag den ved 175°C i ca. 30 min.
+- Gem den sidste del af chokolademoussen et koldt sted. Køleskabet eller en vinterkold terasse.
+- Når bunden er bagt færdig så lad den køle til stueremperatur.
+- Smør det sidste chokolademousse på.
+
 ### oat cookies (much sweeter but to cakey)
 - 2 olive oil (or light melted coconut oil)
 - 4 eggs
@@ -576,6 +638,21 @@ WET: In another bowl mix
 Form about 24 cookies (12 on each sheet) or roll in baking paper and freeze. Then when needed cut slices from frozen and bake (2-3 min more when frozen). 
 Cook in oven 180 degrees for 8-10 min.
 
+### Layered cake
+#### custard
+[Source](http://www.kvalimad.dk/page/alt-om-vanille-aegge-creme/uuid/34d2e84a-4f7c-11e6-8fdc-f8b04083d107)
+- ½ liter creme
+- 3 eggs
+- 150 gram sugar
+- 1 spsk vanilla sugar
+- 2 spsk maizena
+
+#### steps
+- Hæld maizena op i en gryde.
+- Hæld lidt fløde i, og rør alle klumperne i maizenaen væk.
+- Hæld resten af ingredienserne i.
+- Varm op under omrøring indtil det er cremet. Du er ikke i tvivl.
+
 ## Vegetarian
 ### Coliflower Gratin (All kinds of vegetable leftovers can be used)
 - 1 Coliflower head in bite size pieces
@@ -583,13 +660,13 @@ Cook in oven 180 degrees for 8-10 min.
 - 3 fed hvidløg hakket
 - 3 Carrots in small pieces
 - Harricot verts in pieces
-- 3 spsk mel
-- 2 spsk smør
-- 2 dl mælk
-- 1 dl fløde
+- 3 spsk flour
+- 2 spsk butter
+- 2 dl milk
+- 1 dl cream
 - 1 tsk salt
-- 1 tsk peber
-- 1 tsk muskatnød
+- 1 tsk pepper
+- 1 tsk nutmeg
 - 6 eggs
 
 - Fry the vegetables til tender with a little bite
@@ -643,6 +720,10 @@ For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha,
 - Remove the lid and stir in the coconut milk, almond butter, along with salt and pepper to taste Continue cooking on low heat, uncovered for 5 to 8 minutes, until the curry has thickened and is creamy. Finally, stir in the lemon juice and cilantro, and turn off the heat
 - If you want your lentils to even creamier and more on the puréed side, use an immersion blender to lightly purée the curry
 - Serve the curry with rice and/or flatbread. Store leftovers in the fridge for 3-4 days.
+
+### Chick Pea Curry
+[Source](https://www.youtube.com/watch?v=F7tiFWYNIEI)
+2 cans of chick peas, 2 onion, 1 large carrot, 5 garlic cloves, grated ginger (1 tbsp), 1 red chili, 1 lemon, 1 bag of fresh spinat, 1 tsp cumin, 2 tsb coriander powder. 1 tsp tumeric, 1 tsp miso (or use soy sauce) . Fry onion, carrot, garlic, ginger, chili and spices and cook it down. Add canned tomatoes and chick peas and cook for 10 min. Blend the other can of chick peas with youghurt and cest and juice of 1 lemon. Add to the curry and cook for 5 min. Add the spinach and cook for 1 min.  Serve with rice or Naan and coriander.
 
 ### Vegan burger
 [Here is the video](https://www.youtube.com/watch?v=a42hQn-jrKg)
@@ -737,3 +818,49 @@ Looking soooo delisious (and comes with general cooking advice about indian cuis
 
 ### Black eyed pea stew
 - [Creamy Black Eyed Eea dip](https://vanillaandbean.com/warm-black-eyed-pea-dip-with-cream-cheese/)
+
+## Salats
+### Salat topping to prep and keep
+[Toppings from here](https://www.youtube.com/watch?v=-urrPgjr_EQ)
+- Ingredients: Walnuts 1 dl, sunflower seeds 1 dl, pepitas (græskar kerner) 1 dl, 1 tbsp oil, salt and pepper: bake in oven at 180 degrees for 12 min. Store in jar for a few weeks.
+
+### Salat dressings
+[Balsamic](https://www.youtube.com/watch?v=-urrPgjr_EQ)
+1 charlot and 1 glove garlic graded, Balsamic vinegar 50 mil, Olive oil 1.5 dl, salt and pepper. Mix and store in jar for a few weeks in fridge.
+
+**Hummus**
+**Tahini lemon** Tahini 1dl, lemon juice 1, garlic 1 clove graded, maple sirup, cumin, pepper, salt, ice water. Mix and store in jar for a few weeks in fridge. Pour on top of salad or roasted veg.  
+**Pesto**
+**Guacamole**
+**Salsa**
+**Tzatziki**
+**Aioli**
+**Baba ganoush**
+**Chick pea cream** garlic and onion fried in oil with spices, add chick peas (possibly tomato) and blend with lemon juice and salt. Perfect over chared cabbage.
+
+## Lunch
+### Savoury Crepes
+[Source](https://www.youtube.com/watch?app=desktop&v=SvyuzrXwTic&t=3m00s&ab_channel=FrenchCookingAcademy)
+
+#### Crepes
+- 250 grams plain all-purpose flour
+- 5 grams of salt
+- 3 whole eggs
+- 500 ml of full cream milk ( whole milk)
+
+- In a large bowl add all of the flour (sifted), the salt, then using a whisk make a well in the middle. Pour in the middle the beaten eggs then start to incorporate slowly the eggs with the flour ( as shown in the video) Once you get a consistency of a paste start pouring in the milk bit by bit while keeping whisking to incorporate the flour. Keep ongoing until you get a smooth batter. When done leave the batter to rest for 1 hour at room temperature.
+
+#### Filling (Sauce Creme)
+- Roux (40 g. butter, 40 g. flour)
+- 400 ml full cream milk ( whole milk)
+- 100 ml double cream (liquid cream) also called heavy whipping cream
+- 40 grams of gruyere cheese
+- 1 bay leave
+- A quarter onion with 3 cloves attached to it
+
+- Pour all of the milk In a saucepan on low heat then add in the half onion with the cloves, 1 bay leaf and a pinch of salt (about half a teaspoon) bring to a simmer.
+- As soon as the milk reached simmering point turn the heat off.
+- use now the pan that you used to make the roux and pour the warm milk over the (cold) roux. stir well using a whisk to incorporate the roux with the milk.
+- Next put the pan on the stove over medium heat and keep stirring until the sauce thickens.
+- When the sauce reaches boiling point turn the heat down to low, add the cream in and stir gently.
+- Keep on cooking the sauce on low heat for 2 minutes while stirring then turn the heat off and add the grated cheese .
