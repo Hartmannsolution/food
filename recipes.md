@@ -49,6 +49,11 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 - **Barbeque sauce**
 - **Flavoured mayo (garlic, ketchup, lemon, sweet mustard)**
 - **Hummus**
+- **Muhammara**: 450 gram roasted red bell peppers (3 medium/large red bell peppers) 1 cup walnuts (120 grams) 1/2 cup breadcrumbs (60 grams) 3 tbsp extra virgin olive oil, 2 tablespoon pomegranate molasses .5 tablespoon lemon juice, 1 glove garlic, 1 teaspoon ground cumin 1 teaspoon smoked paprika 1/2 teaspoon cayenne pepper 1/2 teaspoon salt 1/4 teaspoon black pepper
+  - Roast bell peppers and walnuts. Blend all ingredients and store in fridge for 2-3 weeks.
+
+- **Mexican salsa macha** 1/3 cup sesame seeds, 1/2 cup unsalted peanuts, 6-8 large garlic cloves, lots of chili flakes or 1 cup of blended dried chili arbol, 1 cup olive oil. Heat over low heat - add garlic til golden and remove, toast peanuts for a minute, add sesame seeds til golden and add all to blender and blend till smooth. Store in fridge for 2-3 weeks. (also sometimes with pumkin seeds)
+
 - **Yemeni Dipping sauce** For kofta dipping: 3 tbsp youghurt, 1 tbsp tahini, 1 tbsp lemon juice, 1 tbsp olive oil, 1 clove garlic, 1 tsp cumin, 1 tsp paprika, 1 tsp salt. 
 - **Yemeni hot sauce** half a tomato, 2 hot peppers, 2 tbsp hot pepper powder, 1 tbsp chilli flakes, 3 tbsp vinegar, 1 tbsp olive oil, salt and pepper. Blend and store in fridge for 2-3 weeks.
 - **Katsu sauce** ( 1 tbsp oister sauce, 1 dl ketchup, 0.5 dl worcestershire, 0.5 tbsp brown sugar or to taste) for chicken dipping
@@ -654,6 +659,17 @@ Cook in oven 180 degrees for 8-10 min.
 - Varm op under omrøring indtil det er cremet. Du er ikke i tvivl.
 
 ## Vegetarian
+### Salats
+#### Salat topping from Nisha:
+- [Source](https://www.youtube.com/watch?v=-urrPgjr_EQ&t=1086s)
+- 1/2 cup of walnuts
+- 1/2 cup of pumpkin seeds
+- 1/2 cup of sunflower seeds
+- (maybe try to also add 1/2 cup of sesame seeds)
+- tbsp olive oil
+- salt and pepper
+- Mix and bake at 180 degrees for 12 min. (tossing halfway)
+
 ### Coliflower Gratin (All kinds of vegetable leftovers can be used)
 - 1 Coliflower head in bite size pieces
 - 1 large onion chopped
@@ -676,6 +692,9 @@ Cook in oven 180 degrees for 8-10 min.
 - mix with the vegetables and pour in a baking tray
 - Cover with breadcrumbs (and maybe some cheese)
 - Bake in oven at 180 degrees for 40-60 min. 
+
+### Gobi Manchurian
+Battered and Baked coliflower
 
 
 ### Dahl
