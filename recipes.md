@@ -49,7 +49,7 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 - **Barbeque sauce**
 - **Flavoured mayo (garlic, ketchup, lemon, sweet mustard)**
 - **Hummus**
-- **Muhammara**: 450 gram roasted red bell peppers (3 medium/large red bell peppers) 1 cup walnuts (120 grams) 1/2 cup breadcrumbs (60 grams) 3 tbsp extra virgin olive oil, 2 tablespoon pomegranate molasses .5 tablespoon lemon juice, 1 glove garlic, 1 teaspoon ground cumin 1 teaspoon smoked paprika 1/2 teaspoon cayenne pepper 1/2 teaspoon salt 1/4 teaspoon black pepper
+- **Muhammara**: 450 gram roasted red bell peppers (3 medium/large red bell peppers), 1 cup walnuts (120 grams), 1/2 cup breadcrumbs (60 grams), 3 tbsp extra virgin olive oil, 2 tablespoon pomegranate molasses .5 tablespoon lemon juice, 1 glove garlic, 1 teaspoon ground cumin, 1 teaspoon smoked paprika, 1/2 teaspoon cayenne pepper 1/2 teaspoon salt 1/4 teaspoon black pepper
   - Roast bell peppers and walnuts. Blend all ingredients and store in fridge for 2-3 weeks.
 
 - **Mexican salsa macha** 1/3 cup sesame seeds, 1/2 cup unsalted peanuts, 6-8 large garlic cloves, lots of chili flakes or 1 cup of blended dried chili arbol, 1 cup olive oil. Heat over low heat - add garlic til golden and remove, toast peanuts for a minute, add sesame seeds til golden and add all to blender and blend till smooth. Store in fridge for 2-3 weeks. (also sometimes with pumkin seeds)
