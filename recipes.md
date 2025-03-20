@@ -437,7 +437,6 @@ Day 2:
 ## Desserts
 
 ### Tante Marthas æblekage
-
 100 g. smør
 100 g. sukker
 75 g. mel

@@ -114,3 +114,26 @@
 - Glasnudler (100% mungbønner)
 
 
+# Indkøb til lørdag den 21. marts
+- 2 hele kyllinger
+- 3 broccoli
+- 1 blomkål
+- 1 spidskål
+- 1 fennikel
+- 2 romain salat hoveder
+- 5 avocado
+- 2 agurker
+- 1 kg tomater
+- 1 pose gulerødder
+- 1 pose rødbeder
+- 1 bundt af både koriander, dill, persille og basilikum
+- 20 æg
+- 200g bacon
+- 3 kg store kartofler
+- 1 kg alm løg
+- 5 hvidløg
+- 2 bk champignon
+- 400 g. smør
+- 1 pk gær
+- ½ liter fløde
+- 
